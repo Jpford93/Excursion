@@ -14,5 +14,8 @@ body {
 .head-link a {
     font-size: 16px;
     color: aquamarine;
-    padding-bottom: 90px;
+}
+
+#phone-mockup {
+    padding-top: 30px;
 }
