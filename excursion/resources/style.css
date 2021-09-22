@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-.header-title {
+.header-title h1 {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
@@ -16,6 +16,6 @@ body {
     color: aquamarine;
 }
 
-#phone-mockup p {
+.mockup p {
     padding-top: 30px;
 }
