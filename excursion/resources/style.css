@@ -3,6 +3,11 @@ body {
     text-align: center;
 }
 
+h3 {
+    color: gray;
+    text-align: right;
+}
+
 .header-title h1 {
     font-family: Verdana;
     font-weight: normal;
@@ -31,9 +36,4 @@ video {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
-}
-
-h3 {
-    color: gray;
-    text-align: right;
 }
