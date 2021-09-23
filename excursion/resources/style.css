@@ -33,7 +33,7 @@ video {
     color: gray;
 }
 
-#footer h4 {
+.copyright h4 {
     color: gray;
     text-align: right;
 }
