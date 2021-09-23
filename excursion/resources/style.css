@@ -32,3 +32,8 @@ video {
     font-size: 21px;
     color: gray;
 }
+
+#footer h4 {
+    color: gray;
+    text-align: right;
+}
